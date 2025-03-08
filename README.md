@@ -28,6 +28,10 @@ The call would return `['foo', 'boo', 'bar']`.
 Feel free to use other data structures, but you'll have to change the test code
 accordingly.
 
+I referenced my detecting cycles exercise, which in that exercise I referenced https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/ and the lecture slides on graphing as well as my dijkstra's algorithm exercise.
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
+
 ## Runtime Analysis
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
