@@ -36,3 +36,5 @@ I certify that I have listed all sources used to complete this exercise, includi
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+When we start, we check if the start is equivalent to the end, which is a constant factor. We then call followPath() and call this function recursively, and in the worst case, we end up visiting each vertex, so this would be O(V). In our for loop, we also check each edge which gives us O(E). This all gives us a worst case complexity of $\Theta$(V+E). 
